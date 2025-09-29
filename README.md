@@ -49,7 +49,7 @@ npm install
 ### Para Python
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/universal-api-connector.git
+https://github.com/ciconha/API-connector-dragon-.git
 cd universal-api-connector/python
 
 # Instale as dependências
@@ -586,7 +586,7 @@ Você pega nosso "motor" (conexão) e coloca no SEU "carro" (projeto).
 ### Para JavaScript:
 ```bash
 # 1. Baixe os arquivos
-git clone https://github.com/seu-usuario/universal-api-connector.git
+https://github.com/ciconha/API-connector-dragon-.git
 
 # 2. Copie para SEU projeto
 cp universal-api-connector/javascript/mongo-connector.js ./meu-projeto/src/connectors/
@@ -598,7 +598,7 @@ const MongoConnector = require('./connectors/mongo-connector.js');
 ### Para Python:
 ```bash
 # 1. Baixe os arquivos
-git clone https://github.com/seu-usuario/universal-api-connector.git
+https://github.com/ciconha/API-connector-dragon-.git
 
 # 2. Copie para SEU projeto
 cp universal-api-connector/python/mongo_connector.py ./meu-projeto/utils/
