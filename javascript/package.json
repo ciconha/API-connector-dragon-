@@ -1,0 +1,16 @@
+{
+  "name": "universal-api-connector-js",
+  "version": "1.0.0",
+  "description": "Universal API connector for MongoDB and Supabase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0",
+    "@supabase/supabase-js": "^2.0.0"
+  },
+  "keywords": ["api", "mongodb", "supabase", "connector"],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
