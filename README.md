@@ -706,4 +706,4 @@ Consulte a pasta `examples/` para ver uso real!
 
 **Happy Coding!** 🚀
 
-*Lembre: Você pega nossa conexão e coloca no SEU projeto!*
+*Lembre: Você pega essa conexão e coloca no SEU projeto!*
